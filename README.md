@@ -208,9 +208,9 @@ This project was developed as part of an advanced wireless communications course
 If you use this work in your research or project, please cite:
 ```bibtex
 @software{5g_nr_layer2_pdu,
-  author = {Your Name},
+  author = {Sneha Singh},
   title = {5G NR Layer-2 PDU Structure Definitions},
   year = {2025},
-  url = {https://github.com/YOUR_USERNAME/5G-NR-Layer2-PDU-Structures}
+  url = {https://github.com/snehasingh-27/5G-NR-Layer2-PDU-Structures}
 }
 ```
