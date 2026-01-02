@@ -214,10 +214,3 @@ If you use this work in your research or project, please cite:
   url = {https://github.com/YOUR_USERNAME/5G-NR-Layer2-PDU-Structures}
 }
 ```
-
----
-
-**⭐ Star this repository if you find it helpful!**
-```
-
----
