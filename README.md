@@ -162,7 +162,7 @@ This is an academic project completed as part of a wireless communications cours
 
 ## 👤 Author
 
-**[Your Name]**
+**[Sneha Singh]**
 - GitHub: ([https://github.com/YOUR_USERNAME](https://github.com/snehasingh-27))
 - LinkedIn: ([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/snehasingh2784/?originalSubdomain=in))
 
