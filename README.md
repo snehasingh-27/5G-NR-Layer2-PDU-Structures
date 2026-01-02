@@ -1,7 +1,6 @@
 # 5G NR Layer-2 PDU Structure Definitions
 
 [![C](https://img.shields.io/badge/language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![3GPP](https://img.shields.io/badge/3GPP-Release%2015%2F16-orange.svg)](https://www.3gpp.org/)
 
 A comprehensive implementation of 5G New Radio (NR) Layer-2 Protocol Data Unit (PDU) header structures in C, strictly based on 3GPP specifications.
