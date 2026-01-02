@@ -51,10 +51,6 @@ All structures are derived directly from 3GPP specifications with bit-accurate f
 
 ## 🚀 Quick Start
 
-### Prerequisites
-- GCC compiler or compatible C compiler
-- C11 standard support
-
 ### Clone the Repository
 ```bash
 git clone https://github.com/YOUR_USERNAME/5G-NR-Layer2-PDU-Structures.git
@@ -83,27 +79,6 @@ PDCP Layer:
 
 === Total Structures Defined: 24 ===
 All 5G NR Layer-2 PDU structures compiled successfully!
-```
-
-## 📖 Usage Example
-```c
-#include "5g_nr_pdu_structures.h"
-
-int main() {
-    // Create a PDCP Data PDU with 12-bit SN
-    pdcp_data_pdu_12bit_sn_t pdcp_pdu = {
-        .dc = 1,           // Data PDU
-        .rsv = 0,          // Reserved bits
-        .sn_high = 0x0F,   // Upper 4 bits of SN
-        .sn_low = 0xFF     // Lower 8 bits (SN = 4095)
-    };
-    
-    // Extract complete sequence number
-    uint16_t sn = (pdcp_pdu.sn_high << 8) | pdcp_pdu.sn_low;
-    printf("PDCP SN: %u\n", sn);
-    
-    return 0;
-}
 ```
 
 ## 🔧 Technical Details
