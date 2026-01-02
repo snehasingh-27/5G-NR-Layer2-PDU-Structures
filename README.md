@@ -114,9 +114,7 @@ Some PDUs have variable-length components documented but not fully implemented:
 .
 ├── src/                    # Source files
 ├── docs/                   # Documentation
-├── examples/               # Usage examples
-├── README.md              # This file
-└── LICENSE                # MIT License
+├── README.md               # This file
 ```
 
 ### Compilation Flags
@@ -124,16 +122,6 @@ Recommended compilation with strict warnings:
 ```bash
 gcc -Wall -Wextra -Werror -std=c11 test_compile.c -o test
 ```
-
-## 🤝 Contributing
-
-This is an academic project completed as part of a wireless communications course. While the project is complete, suggestions and improvements are welcome:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit your changes (`git commit -am 'Add improvement'`)
-4. Push to the branch (`git push origin feature/improvement`)
-5. Open a Pull Request
 
 ## 👤 Author
 
