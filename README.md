@@ -106,12 +106,6 @@ int main() {
 }
 ```
 
-## 📚 Documentation
-
-- [Specification References](docs/SPECIFICATION_REFERENCES.md) - 3GPP TS references
-- [Structure Overview](docs/STRUCTURE_OVERVIEW.md) - Detailed structure documentation
-- [Usage Examples](examples/usage_examples.c) - Code examples
-
 ## 🔧 Technical Details
 
 ### Bit-Field Ordering
@@ -166,16 +160,11 @@ This is an academic project completed as part of a wireless communications cours
 4. Push to the branch (`git push origin feature/improvement`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👤 Author
 
 **[Your Name]**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-- Email: your.email@example.com
+- GitHub: ([https://github.com/YOUR_USERNAME](https://github.com/snehasingh-27))
+- LinkedIn: ([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/snehasingh2784/?originalSubdomain=in))
 
 ## 🎓 Academic Context
 
@@ -187,7 +176,7 @@ This project was developed as part of an advanced wireless communications course
 ## 🙏 Acknowledgments
 
 - 3GPP for comprehensive technical specifications
-- [Your University Name] for educational support
+- [IIIT Bangalore] for educational support
 - The wireless communications research community
 
 ## 📊 Project Statistics
@@ -196,12 +185,6 @@ This project was developed as part of an advanced wireless communications course
 - **Structures Defined**: 24
 - **Protocols Covered**: 4 (SDAP, PDCP, RLC, MAC)
 - **Documentation Coverage**: 100%
-
-## 🔗 Related Resources
-
-- [3GPP Specifications Portal](https://www.3gpp.org/specifications)
-- [5G NR Overview](https://www.3gpp.org/technologies/5g)
-- [Layer-2 Protocol Stack Documentation](https://www.sharetechnote.com/html/5G/5G_ProtocolStack.html)
 
 ## 📝 Citation
 
